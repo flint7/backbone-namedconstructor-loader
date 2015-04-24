@@ -1,0 +1,6 @@
+{
+  "name": "named-backbone-loader",
+  "version": "0.1.0",
+  "description": "adds named constrcutors to backbone classes for webpack",
+  "license": "MIT"
+}
