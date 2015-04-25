@@ -1,0 +1,7 @@
+Backbone.Model.extend({
+
+    constructor: function () {
+        // constructor with nothing in it?!?
+    }
+
+});
