@@ -27,7 +27,7 @@ function splitSource(source, matchDetails) {
 
 function determineResourceName(resourcePath) {
     var fileName = path.basename(resourcePath, '.js');
-    fileName = fileName.replace(/(-|\.)\S/g, function(c){ return c.toUpperCase(); })
+    fileName = fileName.replace(/(-|\.)\S/g, function(c){ return c.toUpperCase(); });
     fileName = fileName.replace(/-|\./g, '');
     return capitalise(fileName);
 }
