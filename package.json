@@ -1,5 +1,5 @@
 {
-  "name": "named-backbone-loader",
+  "name": "backbone-namedconstructor-loader",
   "version": "0.1.0",
   "description": "adds named constrcutors to backbone classes for webpack",
   "devDependencies": {
@@ -12,6 +12,17 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/flint7/backbone-namedconstructor-loader.git"
+  },
+  "homepage": "https://github.com/flint7/backbone-namedconstructor-loader",
+  "keywords": [
+    "webpack",
+    "loader",
+    "backbone",
+    "constructor"
+  ],
+  "author": {
+    "name": "Andrew Vernon",
+    "url": "http://github.com/flint7"
   },
   "license": "MIT"
 }
