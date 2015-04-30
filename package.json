@@ -1,7 +1,7 @@
 {
   "name": "backbone-namedconstructor-loader",
   "version": "0.1.0",
-  "description": "adds named constrcutors to backbone classes for webpack",
+  "description": "Adds named constructors to Backbone classes for webpack.",
   "devDependencies": {
     "backbone": "^1.1.2",
     "tape": "^4.0.0"
@@ -22,7 +22,7 @@
   ],
   "author": {
     "name": "Andrew Vernon",
-    "url": "http://github.com/flint7"
+    "url": "https://github.com/flint7"
   },
   "license": "MIT"
 }
