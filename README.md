@@ -1,7 +1,6 @@
 # backbone-namedconstructor-loader
 
 [![Build Status](https://travis-ci.org/flint7/backbone-namedconstructor-loader.png?branch=master)](https://travis-ci.org/flint7/backbone-namedconstructor-loader)
-
 [![NPM version](https://badge.fury.io/js/backbone-namedconstructor-loader.svg)](http://badge.fury.io/js/backbone-namedconstructor-loader)
 
 Add named constructors to your Backbone objects.
